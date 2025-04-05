@@ -6,7 +6,7 @@ A Python application with SQLite database integration for managing employee reco
 ## Features
 
 - ✅ **Full CRUD functionality** (Create, Read, Update, Delete)
-- 🐍 **Python 3.8+** implementation
+- 🐍 **Python 3.9** implementation
 - 🗃️ **SQLite database** with automatic table creation
 - 🔍 **DBeaver integration** for visual database management
 - 📊 **Employee entity class** with proper data encapsulation
