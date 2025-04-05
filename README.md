@@ -14,4 +14,5 @@ A Python application with SQLite database integration for managing employee reco
 
 
 
-![Image](https://github.com/user-attachments/assets/e8d09014-08ae-4d47-941a-733d7ba7c8f0)
+![DBeaver output](https://github.com/user-attachments/assets/e8d09014-08ae-4d47-941a-733d7ba7c8f0)
+![main file output](https://github.com/user-attachments/assets/32f121c4-6c21-493f-b06f-5d4c43e260ba)
