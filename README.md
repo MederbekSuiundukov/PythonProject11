@@ -10,3 +10,8 @@ A Python application with SQLite database integration for managing employee reco
 - 🗃️ **SQLite database** with automatic table creation
 - 🔍 **DBeaver integration** for visual database management
 - 📊 **Employee entity class** with proper data encapsulation
+
+
+
+
+![Image](https://github.com/user-attachments/assets/e8d09014-08ae-4d47-941a-733d7ba7c8f0)
